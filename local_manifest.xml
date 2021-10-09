@@ -9,7 +9,7 @@
         
         <project path="device/realme/X00TD" name="device_asus_RMX1851" remote="xootkama" revision="11" clone-depth="1" />
         <project path="vendor/realme" name="vendor_asus_RMX1851" remote="xootkama" revision="11" clone-depth="1" />
-        <project path="kernel/realme/RMX1851" name="kernel_realme_RMX1851-1" remote="xootkama" revision="caf-rebase" clone-depth="1" />
+        <project path="kernel/realme/RMX1851" name="kernel_realme_RMX1851-1" remote="xootkama" revision="a11/staging" clone-depth="1" />
 
 </manifest>
 
