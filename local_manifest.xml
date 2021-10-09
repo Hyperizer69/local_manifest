@@ -7,9 +7,9 @@
           fetch="https://github.com/xootkama" />
   <!-- Sync trees -->
         
-        <project path="device/asus/X00TD" name="device_asus_X00TD" remote="xootkama" revision="11" clone-depth="1" />
-        <project path="vendor/asus" name="vendor_asus_X00TD" remote="xootkama" revision="11" clone-depth="1" />
-        <project path="kernel/asus/X00T" name="android_kernel_asus_sdm636-2" remote="xootkama" revision="caf-rebase" clone-depth="1" />
+        <project path="device/realme/X00TD" name="device_asus_RMX1851" remote="xootkama" revision="11" clone-depth="1" />
+        <project path="vendor/realme" name="vendor_asus_RMX1851" remote="xootkama" revision="11" clone-depth="1" />
+        <project path="kernel/realme/RMX1851" name="kernel_realme_RMX1851-1" remote="xootkama" revision="caf-rebase" clone-depth="1" />
 
 </manifest>
 
