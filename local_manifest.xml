@@ -1,14 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-
 <manifest>
 
-  <remote name="xootkama"
-
-          fetch="https://github.com/xootkama" />
   <!-- Sync trees -->
-        
-        <project path="device/realme/X00TD" name="device_asus_RMX1851" remote="xootkama" revision="11" clone-depth="1" />
-        <project path="vendor/realme" name="vendor_asus_RMX1851" remote="xootkama" revision="11" clone-depth="1" />
+        <project path="device/realme/RMX1851" name="device_asus_RMX1851" remote="xootkama" revision="11" clone-depth="1" />
+        <project path="vendor/realme/RMX1851" name="vendor_asus_RMX1851" remote="xootkama" revision="11" clone-depth="1" />
         <project path="kernel/realme/RMX1851" name="kernel_realme_RMX1851-1" remote="xootkama" revision="a11/staging" clone-depth="1" />
 
 </manifest>
