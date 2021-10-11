@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
 
-  <!-- Sync trees -->
+  <remote  name="xootkama" fetch="https://github.com/xootkama
+        <!-- Sync trees -->
         <project path="device/realme/RMX1851" name="device_asus_RMX1851" remote="github" revision="11" clone-depth="1" />
         <project path="vendor/realme/RMX1851" name="vendor_asus_RMX1851" remote="github" revision="11" clone-depth="1" />
         <project path="kernel/realme/RMX1851" name="kernel_realme_RMX1851-1" remote="github" revision="a11/staging" clone-depth="1" />
