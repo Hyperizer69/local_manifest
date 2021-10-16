@@ -3,6 +3,7 @@
           
     <remote  name="xootkama" fetch="https://github.com/xootkama" />
         <!-- Sync trees -->
+        <remove-project name="device/generic/opengl-transport" />
         <project path="device/realme/RMX1851" name="device_realme_RMX1851-1" remote="xootkama" revision="dot11" clone-depth="1" />
         <project path="device/qcom/sepolicy_vndr" name="platform_device_qcom_sepolicy_vndr" remote="xootkama" revision="12.x" clone-depth="1" />
         <project path="vendor/realme/RMX1851" name="vendor_realme_3pro" remote="xootkama" revision="aosp-11" clone-depth="1" />
