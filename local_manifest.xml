@@ -4,8 +4,8 @@
     <remote  name="xootkama" fetch="https://github.com/xootkama" />
         <!-- Sync trees -->
         <remove-project name="device/generic/opengl-transport" />
-        <project path="device/realme/sdm710-common" name="android_device_realme_sdm710-common" remote="xootkama" revision="giyarah" clone-depth="1" />
-        <project path="vendor/realme/sdm710-common" name="vendor_realme_sdm710" remote="xootkama" revision="aosp-11" clone-depth="1" />
-        <project path="kernel/realme/sdm710-common" name="kernel_realme_sdm710-1" remote="xootkama" revision="a11/staging" clone-depth="1" />
+        <project path="device/realme/sdm710-common" name="android_device_realme_sdm710-common" remote="xootkama" revision="lineage-17.0" clone-depth="1" />
+        <project path="vendor/realme/sdm710-common" name="vendor_realme_sdm710" remote="xootkama" revision="lineage-17.1" clone-depth="1" />
+        <project path="kernel/realme/sdm710-common" name="kernel_realme_sdm710-1" remote="xootkama" revision="lineage-17.1" clone-depth="1" />
 
 </manifest>
