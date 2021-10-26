@@ -7,6 +7,5 @@
         <project path="device/realme/RMX1851" name="yaap_realme_RMX1851" remote="xootkama" revision="giyarah" clone-depth="1" />
         <project path="vendor/realme/RMX1851" name="vendor_realme_3pro" remote="xootkama" revision="aosp-11" clone-depth="1" />
         <project path="kernel/realme/RMX1851" name="kernel_realme_RMX1851-1" remote="xootkama" revision="a11/staging" clone-depth="1" />
-        <project path="device/realme/sdm710-common" name="device_realme_RMX1851-common" remote="xootkama" revision="dot11" clone-depth="1" />
-        <project path="prebuilts/gcc/linux-x86/aarch64/aarch64-linux-android-4.9" name="GCC-4.9" remote="xootkama" revision="arm64" clone-depth="1" />  
+        <project path="device/realme/sdm710-common" name="device_realme_RMX1851-common" remote="xootkama" revision="dot11" clone-depth="1" 
 </manifest>
