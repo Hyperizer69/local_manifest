@@ -7,6 +7,5 @@
         <project path="device/realme/RMX1851" name="ssos-device_realme_RMX1851" remote="xootkama" revision="eleven" clone-depth="1" />
         <project path="vendor/realme/RMX1851" name="vendor_realme_RMX1851" remote="xootkama" revision="eleven" clone-depth="1" />
         <project path="kernel/realme/RMX1851" name="kernel_realme_RMX1851-2" remote="xootkama" revision="eleven" clone-depth="1" />
-        <project path="device/realme/sdm710-common" name="EvoX_device_realme_sdm710-common-1" remote="xootkama" revision="eleven" clone-depth="1" />
         
 </manifest>   
