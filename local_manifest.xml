@@ -8,6 +8,5 @@
         <project path="vendor/realme/RMX1851" name="vendor_realme_RMX1851-1" remote="xootkama" revision="eleven" clone-depth="1" />
         <project path="device/realme/sdm710-common" name="device_realme_sdm710-common" remote="xootkama" revision="eleven" clone-depth="1" />
         <project path="kernel/realme/RMX1851" name="kernel_realme_RMX1851-2" remote="xootkama" revision="eleven" clone-depth="1" />
-        <project path="hardware/custom/interfaces" name="hardware_custom_interfaces" remote="xootkama" revision="eleven" clone-depth="1" />
-        
+                
 </manifest>   
