@@ -5,9 +5,8 @@
     <remote  name="aashiq-exe" fetch="https://github.com/aashiq-exe" />
      
         <!-- Sync trees -->
-        <project path="device/realme/RMX1851" name="Pe12_device_realme_RMX1851" remote="xootkama" revision="master" clone-depth="1" />
-        <project path="vendor/realme/RMX1851" name="ev12_vendor_realme_RMX1851" remote="aashiq-exe" revision="12" clone-depth="1" />
-        <project path="vendor/realme/sdm710-common" name="ev12_vendor_realme_sdm710-common" remote="aashiq-exe" revision="12" clone-depth="1" />
-        <project path="kernel/realme/RMX1851" name="ev12_IllusionX_sdm710" remote="xootkama" revision="ra" clone-depth="1" />
+        <project path="device/oneplus/kebab" name="android_device_oneplus_kebab" remote="xootkama" revision="12.0" clone-depth="1" />
+        <project path="vendor/oneplus/kebab" name="android_vendor_oneplus_kebab" remote="xootkama" revision="arrow-12.0" clone-depth="1" />
+        <project path="kernel/oneplus/kebab" name="android_kernel_oneplus_sm8250" remote="xootkama" revision="arrow-12.0" clone-depth="1" />
                 
 </manifest> 
