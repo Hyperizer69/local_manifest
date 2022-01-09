@@ -9,6 +9,8 @@
         <project path="vendor/oneplus/kebab" name="android_vendor_oneplus_kebab" remote="xootkama" revision="arrow-12.0" clone-depth="1" />
         <project path="device/oneplus/sm8250-common" name="android_device_oneplus_sm8250-common" remote="xootkama" revision="lineage-18.1" clone-depth="1" />
         <project path="vendor/oneplus/sm8250-common" name="android_vendor_oneplus_sm8250-common" remote="xootkama" revision="arrow-12.0" clone-depth="1" />
+        <project path="vendor/oneplus/wfdcommon" name="vendor_oneplus_wfdcommon" remote="xootkama" revision="msmnile" clone-depth="1" />
+        <project path="device/oneplus/oneplus-fwk" name="device_oneplus_oneplus-fwk" remote="xootkama" revision="snow" clone-depth="1" />
         <project path="kernel/oneplus/kebab" name="android_kernel_oneplus_sm8250" remote="xootkama" revision="arrow-12.0" clone-depth="1" />
                 
 </manifest> 
