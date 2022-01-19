@@ -2,14 +2,13 @@
 <manifest>
         
     <remote  name="xootkama" fetch="https://github.com/xootkama" />
+    <remote  name="SheikhFaisal713" fetch="https://github.com/SheikhFaisal713" />
     <remote  name="aashiq-exe" fetch="https://github.com/aashiq-exe" />
-    <remote  name="chandu078" fetch="https://github.com/chandu078" />
      
         <!-- Sync trees -->
-        <project path="device/oneplus/kebab" name="device_oneplus_kebab" remote="xootkama" revision="12" clone-depth="1" />
-        <project path="device/oneplus/sm8250-common" name="android_device_oneplus_sm8250-common" remote="chandu078" revision="12" clone-depth="1" />
-        <project path="vendor/oneplus/sm8250-common" name="vendor_oneplus_sm8250-common-1" remote="chandu078" revision="12" clone-depth="1" />
-        <project path="vendor/oneplus/extras" name="vendor_oneplus_extras" remote="chandu078" revision="12" clone-depth="1" />
-        <project path="kernel/oneplus/sm8250" name="kernel_oneplus_sm8250" remote="chandu078" revision="12" clone-depth="1" />
+        <project path="device/realme/RMX1851" name="device_3pro" remote="xootkama" revision="12" clone-depth="1" />
+        <project path="vendor/realme/RMX1851" name="android_vendor_realme_RMX1851" remote="SheikhFaisal713" revision="master" clone-depth="1" />
+        <project path="vendor/realme/sdm710-common" name="ev12_vendor_realme_sdm710-common" remote="aashiq-exe" revision="12" clone-depth="1" />
+        <project path="kernel/realme/RMX1851" name="ev12_IllusionX_sdm710" remote="xootkama" revision="ra" clone-depth="1" />
                 
 </manifest> 
