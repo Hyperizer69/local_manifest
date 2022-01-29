@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
         
+    <remote  name="Hyperizer69" fetch="https://github.com/Hyperizer69" />
     <remote  name="xootkama" fetch="https://github.com/xootkama" />
-    <remote  name="SheikhFaisal713" fetch="https://github.com/SheikhFaisal713" />
+    <remote  name="kssrao13882" fetch="https://github.com/kssrao13882" />
     <remote  name="aashiq-exe" fetch="https://github.com/aashiq-exe" />
-    <remote  name="UsiFX" fetch="https://github.com/UsiFX" />
      
         <!-- Sync trees -->
-        <project path="device/realme/RMX1851" name="device_3pro" remote="xootkama" revision="12" clone-depth="1" />
-        <project path="device/realme/sdm710-common" name="android_device_realme_sdm710-common" remote="SheikhFaisal713" revision="twelve" clone-depth="1" />
-        <project path="vendor/realme/RMX1851" name="Vendor_realme_RMX1851-2" remote="xootkama" revision="master" clone-depth="1" />
-        <project path="vendor/realme/sdm710-common" name="ev12_vendor_realme_sdm710-common" remote="aashiq-exe" revision="12" clone-depth="1" />
-        <project path="kernel/realme/sdm710-common" name="ev12_IllusionX_sdm710" remote="xootkama" revision="ra" clone-depth="1" />
+        <project path="device/realme/RMX1851" name="device_realme_RMX1971" remote="Hyperizer69" revision="twelve" clone-depth="1" />
+        <project path="device/realme/sdm710-common" name="device_realme_sdm710-common-A12" remote="kssrao13882" revision="twelve" clone-depth="1" />
+        <project path="vendor/realme/RMX1851" name="vendor_realme_RMX1851" remote="Hyperizer69" revision="test" clone-depth="1" />
+        <project path="vendor/realme/sdm710-common" name="vendor_realme_sdm710-common-A12" remote="kssrao13882" revision="12" clone-depth="1" />
+        <project path="kernel/realme/sdm710" name="ev12_IllusionX_sdm710" remote="xootkama" revision="ra" clone-depth="1" />
                 
 </manifest> 
