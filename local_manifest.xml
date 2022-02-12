@@ -7,7 +7,7 @@
     <remote  name="aashiq-exe" fetch="https://github.com/aashiq-exe" />
      
         <!-- Sync trees -->
-        <project path="device/realme/RMX1851" name="device_realme_RMX1971" remote="Hyperizer69" revision="raven" clone-depth="1" />
+        <project path="device/realme/RMX1851" name="device_realme_RMX1971" remote="Hyperizer69" revision="ravenc" clone-depth="1" />
         <project path="device/realme/sdm710-common" name="device_realme_sdm710-common-1" remote="Hyperizer69" revision="twelve" clone-depth="1" />
         <project path="vendor/realme/RMX1851" name="vendor_realme_RMX1851-1" remote="Hyperizer69" revision="Lineage-8.1" clone-depth="1" />
         <project path="vendor/realme/sdm710-common" name="vendor_realme_sdm710-common" remote="Hyperizer69" revision="twelve" clone-depth="1" />
