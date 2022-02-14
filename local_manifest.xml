@@ -11,8 +11,10 @@
         <project path="device/realme/sdm710-common" name="device_realme_sdm710-common-1" remote="Hyperizer69" revision="twelve" clone-depth="1" />
         <project path="vendor/realme/RMX1851" name="vendor_realme_RMX1851-1" remote="Hyperizer69" revision="Lineage-8.1" clone-depth="1" />
         <remove-project name="android_hardware_qcom_display" />
+        <remove-project name="android_vendor_qcom_opensource_display-commonsys-intf" />
         <project path="hardware/qcom-caf/msm8996/display" name="hardware_qcom-caf_msm8996_display" remote="Hyperizer69" revision="twelve" clone-depth="1" />
         <project path="hardware/qcom-caf/msm8998/display" name="hardware_qcom-caf_msm8998_display-1" remote="Hyperizer69" revision="twelve" clone-depth="1" />
+        <project path="vendor/qcom/opensource/commonsys-intf/display" name="vendor_qcom_opensource_commonsys-intf_display" remote="Hyperizer69" revision="twelve" clone-depth="1" /> 
         <project path="vendor/realme/sdm710-common" name="vendor_realme_sdm710-common" remote="Hyperizer69" revision="twelve" clone-depth="1" />
         <project path="kernel/realme/sdm710" name="ev12_IllusionX_sdm710" remote="xootkama" revision="ra" clone-depth="1" />
                 
