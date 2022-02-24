@@ -17,7 +17,7 @@
         <project path="hardware/qcom-caf/msm8998/display" name="hardware_qcom-caf_msm8998_display-1" remote="Hyperizer69" revision="twelve" clone-depth="1" />
         <project path="vendor/qcom/opensource/commonsys/display" name="vendor_qcom_opensource_commonsys_display" remote="Hyperizer69" revision="twelve" clone-depth="1" />
         <project path="vendor/qcom/opensource/commonsys-intf/display" name="vendor_qcom_opensource_commonsys-intf_display" remote="Hyperizer69" revision="twelve" clone-depth="1" /> 
-        <project path="vendor/realme/sdm710-common" name="vendor_realme_sdm710-common" remote="Hyperizer69" revision="twelve" clone-depth="1" />
+        <project path="vendor/realme/sdm710-common" name="vendor_realme_sdm710-common-1" remote="Hyperizer69" revision="r11.0" clone-depth="1" />
         <project path="kernel/realme/sdm710" name="ev12_IllusionX_sdm710" remote="xootkama" revision="ra" clone-depth="1" />
                 
 </manifest> 
